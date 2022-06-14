@@ -1,4 +1,12 @@
-# CutOff shader
+---
+description: 'Unity platform: 2021.3.0f1; Oculus SDK'
+---
+
+# CutOff shader + VR
+
+{% embed url="https://www.youtube.com/watch?v=erXnFfUBcfc" %}
+This is demo video
+{% endembed %}
 
 **create -> shader graph -> URP ->lit shader graph （INSTEAD OF** shader ->PBR shader; The Lit graph is the same thing as the PBR graph**）**
 
